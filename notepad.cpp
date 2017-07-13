@@ -7,7 +7,7 @@ Notepad::Notepad(QWidget *parent) :
 {
     ui->setupUi(this);
 }
-
+//hello
 Notepad::~Notepad()
 {
     delete ui;
